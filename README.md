@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1859-sorting-the-sentence](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -60,8 +63,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
