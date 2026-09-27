@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
