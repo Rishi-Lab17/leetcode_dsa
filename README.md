@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0976-largest-perimeter-triangle](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishi-Lab17/leetcode_dsa/tree/master/0242-valid-anagram) |
 ## Prefix Sum
